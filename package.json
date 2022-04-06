@@ -1,0 +1,20 @@
+{
+  "name": "largetech.github.io",
+  "version": "1.0.0",
+  "description": "You can use the [editor on GitHub](https://github.com/largetech/largetech.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.",
+  "main": "index.js",
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  },
+  "repository": "git+https://github.com/largetech/largetech.github.io.git",
+  "author": "largetech",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/largetech/largetech.github.io/issues"
+  },
+  "homepage": "https://github.com/largetech/largetech.github.io#readme",
+  "devDependencies": {
+    "vuepress": "^1.9.7"
+  }
+}
